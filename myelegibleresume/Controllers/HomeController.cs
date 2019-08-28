@@ -17,7 +17,7 @@ namespace myelegibleresume.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "A Page about Bootstrap and ASP.NET CORE";
+            ViewData["Message"] = "User Story Cards";
 
             return View();
         }
